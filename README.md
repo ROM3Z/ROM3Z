@@ -1,6 +1,6 @@
 # ¡Hola! Soy Isaac Rodríguez 👨‍💻
 
-## 🚀 Desarrollador Full Stack | Python | .NET | Angular
+## 🚀 Desarrollador Full Stack
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ROM3Z&show_icons=true&theme=dracula" alt="Estadísticas GitHub" width="400"/>
